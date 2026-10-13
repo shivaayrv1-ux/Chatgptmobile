@@ -1,0 +1,50 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Gradle Wrapper
+gradle-app.setting
+!gradle-wrapper.properties
+gradlew
+gradlew.bat
+
+# Android Studio
+.gradle/
+build/
+intermediates/
+navigation/
+outputs/
+settings/
+
+# Android
+**/debug/*.bin
+**/release/*.bin
+**/debug/*.log
+**/release/*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build
+.cxx/
+cxx/
+
+# Local configuration
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Environment
+.env
+.env.local
+
+# Upload files
+*.zip
+*.apk

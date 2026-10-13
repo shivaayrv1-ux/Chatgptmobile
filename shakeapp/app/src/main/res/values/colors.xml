@@ -1,0 +1,5 @@
+<resources>
+    <color name="screen_bg">#F4F7FC</color><color name="card_white">#FFFFFF</color><color name="accent">#315CF5</color><color name="accent_soft">#EAF0FF</color>
+    <color name="text_primary">#17233D</color><color name="text_secondary">#66738A</color><color name="text_tertiary">#8792A5</color><color name="divider">#E9EDF4</color>
+    <color name="status_green">#16865B</color><color name="status_gray">#8B95A7</color><color name="status_amber">#C47A12</color>
+</resources>
